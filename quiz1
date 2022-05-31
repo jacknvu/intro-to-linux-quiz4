@@ -1,0 +1,37 @@
+Linux file system sructure
+
+Q:
+What command do you use to go the root directory of the file system?
+ cd 
+ cd /
+ cd /etc
+ cd ~
+
+Q:
+What command do you use to print current working directory?
+ ls
+ ls -l
+ pwd
+ cd
+
+Q:
+What command do you use go to your home directory?
+ pwd
+ cd
+ cd ~
+ cd ~jvu
+
+Q:
+What command do you use list files in path /etc?
+ cd /etc
+ ls /etc
+ ls -l /etc
+
+Q:
+When you run command:
+    ls -l /etc/passwd
+ how can you tell if it's a file or a directoy 
+
+Q:
+what is /root directory?
+what is your home directory?
