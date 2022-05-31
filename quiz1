@@ -30,8 +30,10 @@ What command do you use list files in path /etc?
 Q:
 When you run command:
     ls -l /etc/passwd
- how can you tell if it's a file or a directoy 
+ how can you tell if it's a file or a directory?
 
 Q:
-what is /root directory?
-what is your home directory?
+what is /root directory?  Who owns it?
+  Run:  ls -ld /root
+what is your home directory?  Who owns it?
+  Run, Ex: ls -ld ~jvu
